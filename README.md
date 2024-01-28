@@ -1,4 +1,4 @@
-# 📚 Master-Sets-In-Python 🐍
+# 📚 Master-Sets-Methods-In-Python 🐍
 
 Hello and welcome to the Master Python Set Methods Guide! In this guide, I'll explore each built-in method for working with Python sets. Each method will be explained with examples to help you understand how to use these methods effectively and become proficient with Python sets.
 
